@@ -1,6 +1,0 @@
-# Everyone reviews everything (simple)
-* @USER1 @USER2 @USER3 @Oliwia-Ui
-
-# Optional: stricter ownership
-# /server/ @USER_BACKEND
-# /client/ @USER_FRONTEND
