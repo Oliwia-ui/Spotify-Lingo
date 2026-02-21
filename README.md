@@ -31,4 +31,8 @@ https://developer.jamendo.com
 ### 1) Clone the repo
 ```bash
 git clone <REPO_URL>
+<<<<<<< HEAD
 cd Spotify-Lingo
+=======
+cd Spotify-Lingo
+>>>>>>> 9c10a71 (Move CODEOWNERS to correct root location)
