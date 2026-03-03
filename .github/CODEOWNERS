@@ -1,6 +1,8 @@
-# Everyone reviews everything (simple)
-* @USER1 @USER2 @USER3 @Oliwia-Ui
+# Lead developer reviews everything
+* @Oliwia-ui
 
-# Optional: stricter ownership
-# /server/ @USER_BACKEND
-# /client/ @USER_FRONTEND
+# Frontend
+client/* @Oliwia-ui @Martynas @r1029033 @oliwiakm22
+
+# Backend
+server/* @Oliwia-ui @Martynas @r1029033 @oliwiakm22
