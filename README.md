@@ -1,4 +1,4 @@
-# Spotify-Lingo 🎵📚
+# Spotify-Lingo 
 
 Spotify-Lingo is a small language-learning mini game inspired by Spotify.
 
